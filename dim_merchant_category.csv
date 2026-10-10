@@ -1,0 +1,19 @@
+﻿merchant_category_id,category_name,sector,risk_flag
+1,Groceries,Retail,Low
+2,Dining & Restaurants,Leisure,Low
+3,Travel & Transport,Services,Medium
+4,Entertainment,Leisure,Low
+5,Utilities,Services,Low
+6,Online Retail,Retail,Medium
+7,Health & Pharmacy,Retail,Low
+8,Gambling,Leisure,High
+9,Crypto Exchange,Financial,High
+10,Fuel,Retail,Low
+11,Clothing & Fashion,Retail,Low
+12,Electronics,Retail,Medium
+13,Salary / Income,Financial,Low
+14,Loan & Credit,Financial,Medium
+15,Peer-to-Peer Transfer,Financial,Medium
+16,Subscription Services,Services,Low
+17,Charity & Donations,Services,Low
+18,Education,Services,Low
